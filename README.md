@@ -2,16 +2,16 @@
 <p align="center">View what you listen at spotify.</p>
 
 <p align="center">
-   <a href="https://github.com/sndrjhlncgr/README-Spotify-Status/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sndrjhlncgr/README-Spotify-Status"></a>
-   <a href="https://github.com/sndrjhlncgr/README-Spotify-Status/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/sndrjhlncgr/README-Spotify-Status"></a>
-   <a href="https://github.com/sndrjhlncgr/README-Spotify-Status/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/sndrjhlncgr/README-Spotify-Status"></a>
-   <a href="https://github.com/sndrjhlncgr/README-Spotify-Status/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sndrjhlncgr/README-Spotify-Status"></a>
+   <a href="https://github.com/majidnisar/Spotify-Status-Vercel/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/majidnisar/Spotify-Status-Vercel"></a>
+   <a href="https://github.com/majidnisar/Spotify-Status-Vercel/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/majidnisar/Spotify-Status-Vercel"></a>
+   <a href="https://github.com/majidnisar/Spotify-Status-Vercel/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/majidnisar/Spotify-Status-Vercel"></a>
+   <a href="https://github.com/majidnisar/Spotify-Status-Vercel/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/majidnisar/Spotify-Status-Vercel"></a>
 <p align="center">
 
-![Image of Sandro Cagara](https://i.ibb.co/Tmjxnhs/README-Spotify-Status-v2.jpg)
+![Image of Sandro Cagara](https://i.ibb.co/Tmjxnhs/Spotify-Status-Vercel-v2.jpg)
 <p align="center">
    <h3>Demo</h3>
-   <img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="500" />
+   <img src="https://spotify-status-vercel.vercel.app/api/run-spotify-status" alt="Spotify Playing Now" width="500" />
 <p align="center">
 
 Spotify for Developers
@@ -49,7 +49,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 Configure Vercel Application
 ------
-* Fork this [Spotify Status](https://github.com/majidnisar/Spotify-Status)
+* Fork this [Spotify Status](https://github.com/majidnisar/Spotify-Status-Vercel)
 
 * Register on [Vercel](https://vercel.com/)
 
@@ -76,7 +76,7 @@ Put this in your README.md
 ------
 <h3>Small</h3>
 
-<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="350" />
+<img src="https://spotify-status-vercel.vercel.app/api/run-spotify-status" alt="Spotify Playing Now" width="350" />
 
 ``` 
 [<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
@@ -84,7 +84,7 @@ Put this in your README.md
 
 <h3>Medium</h3>
 
-<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="400" />
+<img src="https://spotify-status-vercel.vercel.app/api/run-spotify-status" alt="Spotify Playing Now" width="400" />
 
 ``` 
 [<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="400" />](LINK_TO_YOUR_ACCOUNT)
@@ -92,7 +92,7 @@ Put this in your README.md
 
 <h3>Large</h3>
 
-<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="500" />
+<img src="https://spotify-status-vercel.vercel.app/api/run-spotify-status" alt="Spotify Playing Now" width="500" />
 
 ``` 
 [<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
