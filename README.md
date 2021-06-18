@@ -97,7 +97,6 @@ Put this in your README.md
 ``` 
 [<img src="https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status" alt="Your alt what" width="500" />](LINK_TO_YOUR_ACCOUNT)
 ```
-
 Contribution
 ------
 Feel Free to contribute, PR are the most welcome :)
